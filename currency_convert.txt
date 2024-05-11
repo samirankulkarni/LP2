@@ -1,0 +1,7 @@
+public class Currency_Convert {
+    // remember to put classname as Capital
+    public static Void inrtodoll(Integer a){
+        a *= 90;
+        System.debug(a);
+    }
+}

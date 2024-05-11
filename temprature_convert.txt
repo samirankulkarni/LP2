@@ -1,0 +1,6 @@
+public class Temp_convert {
+    public static Double fun(Double a){
+        return (1.8 * a) + 32;
+    }
+    // System.debug(Temp_convert.fun(25.5d))
+}
